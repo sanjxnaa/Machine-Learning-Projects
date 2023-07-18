@@ -1,0 +1,11 @@
+In this competition I was given the sample US crime data for predicting ViolentCrimesPerPop. I had to use Multi-Linear regression for prediction. 
+We can do any preprocessing, feature selection techniques if required.
+
+Useful Links:
+Refer to the following link for Sklearn Linear models
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+
+Refer to the following link for performance metrics for regression
+https://scikit-learn.org/stable/modules/model_evaluation.html
+
+Evaluation Metric - RMSE
