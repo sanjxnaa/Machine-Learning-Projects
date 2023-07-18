@@ -1,17 +1,21 @@
-My first community kaggle competition conducted by proffesor Dr. Bhargavi R,
+Fruits Classification Machine Learning model by K Nearest Neighbors 
+This was a community kaggle competition hosted by our ML professor Dr. Bhargavi R,
 I am going to implement my first Machine Learning model by name K Nearest Neighbors. I will be working with the fruits_train dataset given for training and test my implementation using fruits_test data set.
 
 Note on Distance metric:
 Use of Euclidean Distance. Either I implement a function to compute the Euclidean distance or you can use SK learn built-in function.
 (https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.euclidean_distances.html)
 
-Important Note:
-I am not supposed to use SK-learn or any other library's K-NN function
-
 Note on Normalization:
 I need to normalize the data so I use from sklearn.preprocessing module.
 (https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.normalize.html 
 https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
+
+Important Note:
+I am not supposed to use SK-learn or any other library's K-NN function. KNN algorithm was to be implemented from scratch without the use of any external libraries like sklearn. 
+The best K value was found to be 1 for the given dataset as it was a small dataset(over-fitted).
+
+Finally the classification accuracy obtained from this model was 0.777 as public score and 1 as private score.
 
 Evaluation:
 Evaluation metric is Classification Accuracy which is computed as Number of correct predictions / Total number of Predictions.
