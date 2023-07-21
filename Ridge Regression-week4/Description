@@ -1,0 +1,5 @@
+Ten baseline variables/features , age, sex, body mass index, average blood pressure, and six blood serum measurements were obtained for each of n = 442 diabetes patients, 
+as well as the response of interest, y, a quantitative measure of disease progression one year after baseline.
+
+We are supposed to train any regression model with cross validation for the given dataset. Hence used the ridge regression and tuned the necessary hyperparameters.
+Metric for evaluation - RMSE
