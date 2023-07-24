@@ -1,0 +1,4 @@
+Using Decision Tree model, train the MNIST digit dataset to recognize the handwritten digits. Refer to MNIST digit dataset to know more details about the dataset. 
+Experiment by changing hyperparameters like tree depth, attribute selection method etc in to get better performance.
+
+Evaluation : Accuracy
