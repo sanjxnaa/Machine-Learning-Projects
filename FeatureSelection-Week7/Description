@@ -1,0 +1,23 @@
+In this compettition, We are going to predict the quality of white wine based on some features. 
+Train an ML model that can learn a generalized model from the given training data.
+Data Set Characteristics:
+
+Number of Attributes: 11 predictive attributes and the target variable
+Attribute Information:
+1 - fixed acidity
+2 - volatile acidity
+3 - citric acid
+4 - residual sugar
+5 - chlorides
+6 - free sulfur dioxide
+7 - total sulfur dioxide
+8 - density
+9 - pH
+10 - sulphates
+11 - alcohol
+12 - Quality
+
+Task is to do all the preprocessing needed before you train the model. To make the confusion matrix.
+Create a markdown cell at the end of your notebook and tabulate all your results and observations for each and every feature selection done. We can measure the required perfomance metrics: F Score, to better your result.
+
+Model used here to predict the wine quality is Random Forest Classifier.
