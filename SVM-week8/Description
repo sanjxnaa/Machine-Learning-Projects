@@ -1,0 +1,5 @@
+Data set comprises of measurements of geometrical properties of kernels belonging to three different varieties of wheat. 
+A soft X-ray technique and GRAINS package were used to construct all seven, real-valued attributes. 
+Kernels belong to three different varieties of wheat: Kama, Rosa and Canadian (Target variable).
+
+We are expected to train an SVM(Support Vector Machine) model that can predict the Wheet kernel type. By experimenting with different Kernel functions and different values of the parameter C.
