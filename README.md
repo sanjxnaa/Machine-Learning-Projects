@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-All Machine Learning models I made from different kaggle datasets during my machine learning lab course in my 5th sem.
+All the various Machine Learning models I worked on by taking different kaggle datasets during my machine learning lab course in my Btech Program.
