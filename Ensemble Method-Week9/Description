@@ -1,0 +1,5 @@
+This dataset is a collection of basic health biological signal data.
+The goal is to determine the presence or absence of smoking through bio-signals.
+Use any ensembled model to predict the status of the target variable "smoking".
+Vary the different hyperperameters like type of estimator, number of estimators, etc. and find the best model that fits the data correctly without underfitting or overfitting.
+Create one markdown cell at the end to report all your results indicating the accuracy of different models you explored.
